@@ -28,29 +28,31 @@
               <input type="text" placeholder="Roll Number" id = "usr_roll" required/>
               <input type="date" placeholder="dd/mm/yyyy" id = "usr_dob" required/>
               <input type="email" placeholder="email address" id = "usr_email" required/>
-              <button id="register_new">SIGNUP</button>
+              <!-- <button id="register_new">SIGNUP</button> -->
+              <button id="register_new" type="button">SIGNUP</button>
+
               <p class="message">Already registered? <a href="#">Sign In</a></p>
             </form>
 
             <form class="login-form">
               <input type="text" placeholder="username" id = "username" required/>
               <input type="password" placeholder="password" id = "password" required/>
+              <p class="message"><a href="password_reset.html">Forgot your password ?</a></p>
+<br>
+              
               <button type="submit" id ="log_me_in" >LOGIN</button>
-              <p class="message">Not registered? <a href="#">Create an account</a></p>
+              <p class="message">Not registered? <a href="user_registration.html">Create an account</a></p>
             </form>
 
           </div>
     </div>
  
- 
-    <!-- The core Firebase JS SDK is always required and must be listed first -->
 <script src="https://www.gstatic.com/firebasejs/6.0.2/firebase-app.js"></script>
 
 <script src="https://www.gstatic.com/firebasejs/6.0.2/firebase-firestore.js"></script>
-<!-- TODO: Add SDKs for Firebase products that you want to use
-     https://firebase.google.com/docs/web/setup#config-web-app -->
  <script defer src="https://www.gstatic.com/firebasejs/6.0.2/firebase-auth.js"></script> 
 
 
+ 
   </body>
 </html>
