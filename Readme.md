@@ -21,16 +21,13 @@
 ---
 
 # direct link 
-
-https://rajpra786.github.io/Library-Management-System/index.html
-
+https://rohan-uel.github.io/Library-Management-System/
 ---
 # Contributors
-- ##### Rajendra Prajapat
-- ##### Dheeraj Chaudhary
-- ##### Priya Tiru
-- ##### Rajdeep Das
-- ##### Shashank N S
+- ##### Manish Sehgal
+- ##### Rohan Sharma 
+- ##### Shiva Vangala
+- ##### Soham Vidyadhar SHINTRE
 
-##### Supervised By- Prof. Channappa B AKKI
-###### Academic Year: 2018-2019
+##### Supervised By- Abin Zorto
+###### Academic Year: 2024-2025
